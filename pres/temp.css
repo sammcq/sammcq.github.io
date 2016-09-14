@@ -1,0 +1,17 @@
+.gdbar img {
+  width: 276px !important;
+  height: 157px !important;
+  margin: 8px 8px;
+}
+
+.gdbar {
+  width: 414px !important;
+  height: 235px !important;
+}
+
+slides > slide:not(.nobackground):before {
+  width: 166px;
+  height: 95px;
+  background-size: 166px 95px;
+}
+
